@@ -1,5 +1,5 @@
 # SVDGAN
-Targeted Black-Box Implementation of SVDGAN
+Targeted White-Box Implementation of SVDGAN
   1. To provide train and test directory path, use parameters.py file inside utils folder
   2. To change hyper-parameters, use parameters.py file inside utils folder
   3. To provide train and test adversarial samples directory path, use parameters.py file inside utils folder
